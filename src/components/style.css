@@ -1,0 +1,60 @@
+input {
+	border: 1px solid #ccc;
+	
+	border-radius: 10px;
+	
+	box-shadow: 2px 2px 3px #666;
+	font-size: 12px;
+	padding: 4px 7px;
+	outline: 0;
+    -webkit-appearance: none;
+    
+    margin:10px;
+}
+input:focus {
+	border-color: powderblue;
+}
+button:focus{
+    border-color: powderblue;
+}
+button{
+
+	
+	border-radius: 10px;
+
+	box-shadow: 2px 2px 3px #666;
+	font-size: 10px;
+	padding: 4px 7px;
+    outline: 0;
+    margin:10px;
+    color:white;
+    background-color: #FF6F61;
+	
+}
+.weather_p{
+    font-size: 12px;
+    margin-bottom:10px;
+    
+}
+.weather{
+   
+    
+    text-align:center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.w_span{
+    font-weight: bold;
+   
+}
+
+.city_label{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.country_label{
+    font-size:12px;
+    font-weight: bold;
+}
